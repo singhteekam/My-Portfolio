@@ -1,3 +1,3 @@
 # My Personal website
 ## - Link
-  - [Link](http://singhteekam.in/)
+  - [http://singhteekam.in/](http://singhteekam.in/)
